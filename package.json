@@ -16,11 +16,8 @@
     "fast-two-sms": "^3.0.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20",
     "sib-api-v3-sdk": "^8.5.0",
     "unirest": "^0.6.0"
-  },
-  "devDependencies": {
-    "morgan": "^1.10.0",
-    "nodemon": "^2.0.20"
   }
 }
