@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "yarn run dev",
+    "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "author": "",
